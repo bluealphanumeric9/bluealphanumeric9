@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bluealphanumeric9
 - 👀 I’m interested in Data Analysis and Data Science. 
 - 🌱 I’m currently learning Machine Learning and Data Analysis Tools. 
-- 💞️ I’m looking to collaborate on NLP Processing and algorithms in general. 
+- 💞️ I’m looking to collaborate on NLP  and algorithms in general. 
 - 📫 How to reach me.
 
 <!---
